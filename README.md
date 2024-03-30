@@ -4,7 +4,7 @@
 
 📫 How to reach me:
 
-- [LinkedIn](https://www.linkedin.com/in/example) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)
+- [LinkedIn](https://www.linkedin.com/in/example) !(https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)
 - [Email](mailto:example@example.com) ![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)
 - Phone: +1234567890
 
