@@ -12,10 +12,10 @@
     <img src="https://cdn-icons-png.freepik.com/512/8109/8109673.png" alt="Email" style="width: 32px; height: 32px;">
   </a>
     <a href="tel:+2145215545522" style="vertical-align: middle;">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQceSgAUmtElFUEjcJQDMMb4zopL_fogwXMtUBr_e-reQ&s" alt="Phone" style="width: 32px; height: 32px;">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQceSgAUmtElFUEjcJQDMMb4zopL_fogwXMtUBr_e-reQ&s" alt="Phone" style="width: 32px; height: 
+            32px;"> </a>
 
-    </a>
-    
+
 
 </div>
 
