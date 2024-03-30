@@ -8,7 +8,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 32px; height: 32px;">
 </a>
 <a href="mailto:haayat.roubakhi@etu.uae.ac.ma">
-  <i class="fas fa-envelope" style="font-size: 32px;"></i>
+  <img src="https://cdn-icons-png.freepik.com/512/8109/8109673.png" alt="Email" style="width: 32px; height: 32px;">
 </a>
 
 
