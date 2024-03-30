@@ -15,7 +15,7 @@
     <img src="https://cdn-icons-png.freepik.com/512/8109/8109673.png" alt="Email" style="width: 32px; height: 32px;">
   </a>
 <a href="tel:+2145215545522" style="vertical-align: middle;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Circle-icons-phone.svg/1200px-Circle-icons-phone.svg.png" alt="Phone" style="width: 32px; height: 32px; pointer-events: none;">   
+  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACjElEQVRYR9WXv0tUYRjHn9faUtklg7FSIitfYQSCCi1DSVJQlDv0E5ySdHmiglFtgNWBilhFWQU8SsU9R0KkJJBFG3oK8LupzE3MDE19/Wr3Xy5k5t7x9/93v/d7Tj2A/45/Wt1n6Zmh0yf9dQ8zxmuAWV8RuslCqV...9xTrAyya9xTlmFLF+nGYxP53vdhxQUV5IYtP8pLQmBFN3bDwCgCWQVKb+MX3T78dAAAAAAAAAAAAYP4/yTjOgAgh+4e9vMOZBjI2AwoDBnAP3OPm1OXAAVwmYigA6LSgAAAAASUVORK5CYII=" alt="Phone" style="width: 32px; height: 32px;">
   <span>tel:+2145215545522</span>
 </a>
 
