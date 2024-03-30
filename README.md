@@ -11,13 +11,24 @@
   <a href="mailto:hayat.roubakhi@etu.uae.ac.ma">
     <img src="https://cdn-icons-png.freepik.com/512/8109/8109673.png" alt="Email" style="width: 32px; height: 32px;">
   </a>
-    <a href="tel:+2145215545522" style="vertical-align: middle;">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQceSgAUmtElFUEjcJQDMMb4zopL_fogwXMtUBr_e-reQ&s" alt="Phone" style="width: 32px; height: 
-            32px;"> </a>
-
-
-
+  <a href="javascript:void(0);" onclick="displayPhoneNumber()">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQceSgAUmtElFUEjcJQDMMb4zopL_fogwXMtUBr_e-reQ&s" alt="Phone" style="width: 32px; height: 32px;">
+  </a>
 </div>
+
+<span id="phoneNumber" style="display: none;">+2145215545522</span>
+
+<script>
+  function displayPhoneNumber() {
+    var phoneNumber = document.getElementById('phoneNumber');
+    if (phoneNumber.style.display === 'none') {
+      phoneNumber.style.display = 'inline';
+    } else {
+      phoneNumber.style.display = 'none';
+    }
+  }
+</script>
+
 
 
 
