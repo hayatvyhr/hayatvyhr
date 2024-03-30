@@ -12,10 +12,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 32px; height: 32px;">
   </a>
   <a href="mailto:hayat.roubakhi@etu.uae.ac.ma">
-    <img src="https://cdn-icons-png.freepik.com/512/8109/8109673.png" alt="Email" style="width: 32px; height: 32px;">
+    <img src="#EA4335" alt="Email" style="width: 32px; height: 32px;">
   </a>
 <a href="tel:+2145215545522" style="vertical-align: middle;">
-    <img src="https://upload.wikimedia.org/wikipedia/Circle-icons-phone.svg/1200px-Circle-icons-phone.svg.png"  target="_blank" alt="Phone" style="width: 32px; height: 32px; pointer-events: none ; >   
+    <img src="https://upload.wikimedia.org/wikipedia/Circle-icons-phone.svg/1200px-Circle-icons-phone.svg.png"   alt="Phone" style="width: 32px; height: 32px; pointer-events: none ; >   
 
   <span>tel:+2145215545522</span>
 </a>
