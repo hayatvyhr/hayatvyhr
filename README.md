@@ -1,5 +1,6 @@
 ### Hi there 👋
-### I'm Hayat Roubakhi
+### I'm Hayat Roubakhi, a student at the School of Applied Sciences (ENSA) in Tetouan.
+
 
 
 <!--
