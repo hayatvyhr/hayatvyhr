@@ -1,6 +1,11 @@
 ### Hi there 👋
 ### I'm Hayat Roubakhi, a student at the School of Applied Sciences (ENSA) in Tetouan.
 
+<ul>
+  <li><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/example">LinkedIn</a></li>
+  <li><i class="fas fa-envelope"></i> <a href="mailto:example@example.com">example@example.com</a></li>
+  <li><i class="fas fa-phone"></i> +1234567890</li>
+</ul>
 
 
 <!--
