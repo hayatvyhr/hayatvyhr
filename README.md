@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ### I'm Hayat Roubakhi, a student at the School of Applied Sciences (ENSA) in Tetouan.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayatvyhr&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayatvyhr&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 📫 How to reach me:
 
