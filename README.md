@@ -1,5 +1,7 @@
 ### Hi there 👋
 ### I'm Hayat Roubakhi, a student at the School of Applied Sciences (ENSA) in Tetouan.
+###📫 How to reach me:
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-nQ3cx3PLuypBuKPc88xE7L6wafplQXSLVTP7GO7OJU9msQ1cd2hZMXW5LkyLS8LJtYp2T7Abyx8OXdY4Slwf4w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 <ul>
   <li><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/example">LinkedIn</a></li>
