@@ -14,9 +14,11 @@
   <a href="mailto:hayat.roubakhi@etu.uae.ac.ma">
     <img src="https://cdn-icons-png.freepik.com/512/8109/8109673.png" alt="Email" style="width: 32px; height: 32px;">
   </a>
-    <a href="tel:+2145215545522" style="vertical-align: middle;">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Circle-icons-phone.svg/1200px-Circle-icons-phone.svg.png" alt="Phone" style="width: 32px; height: 
-            32px;"> </a>
+<a href="tel:+2145215545522" style="vertical-align: middle;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Circle-icons-phone.svg/1200px-Circle-icons-phone.svg.png" alt="Phone" style="width: 32px; height: 32px; pointer-events: none;">   
+  <span>tel:+2145215545522</span>
+</a>
+
 
 
 
