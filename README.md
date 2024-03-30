@@ -7,9 +7,9 @@
 <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/hayat-roubakhi-97ba051b3/)">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 32px; height: 32px;">
 </a>
-<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/hayat-roubakhi-97ba051b3/)">
+
   <img src="https://www.telegraph.co.uk/content/dam/technology/2015/12/11/gmail-envelope_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg?imwidth=680" alt="LinkedIn" style="width: 32px; height: 32px;">
-</a>
+
 
 
 <!--
