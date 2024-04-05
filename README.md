@@ -18,12 +18,12 @@
 
 
 
-<div style="display:flex; align-items: center; justify-content: center;">
-  <div  style=" margin-left: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=hayatvyhr&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats" style="width: 50%; ">
+<div style="display: flex;">
+  <div style="flex: 1; margin-right: 80px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=hayatvyhr&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats" style="width: 60%;">
   </div>
-  <div  style=" margin-left: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayatvyhr&layout=compact&theme=tokyonight" alt="Top Langs" style="width: 50%; ">
+  <div style="flex: 1; margin-left: 80px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayatvyhr&layout=compact&theme=tokyonight" alt="Top Langs" style="width: 60%;">
   </div>
 </div>
 
