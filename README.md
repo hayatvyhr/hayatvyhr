@@ -18,18 +18,21 @@
 
 
 
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
-  <div style="flex: 1; height: 350px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=hayatvyhr&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats" style="width: 100%; height: 100%;">
-  </div>
-  <div style="flex: 1; height: 350px;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayatvyhr&layout=compact&theme=tokyonight" alt="Top Langs" style="width: 100%; height: 100%;">
-    </a>
-  </div>
-</div>
+<table border=0>
+  <tr>
+    <td >
+      <img src="https://github-readme-stats.vercel.app/api?username=hayatvyhr&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats" width="950px"  >
+    </td>
+    <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayatvyhr&layout=compact&theme=tokyonight" alt="Top Langs" width="650px" height="200px">
+    </td>
+  </tr>
+</table>
 
-### 📫 How to reach me:
+
+
+
+## 📫 How to reach me:
 
 
 <div>
