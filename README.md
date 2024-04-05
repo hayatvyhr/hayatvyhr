@@ -18,16 +18,17 @@
 
 
 
-<table border=0>
-  <tr>
-    <td >
-      <img src="https://github-readme-stats.vercel.app/api?username=hayatvyhr&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats" width="950px"  >
-    </td>
-    <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayatvyhr&layout=compact&theme=tokyonight" alt="Top Langs" width="650px" height="200px">
-    </td>
-  </tr>
-</table>
+<div style="display: flex;">
+  <div style="flex: 1; margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=hayatvyhr&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats" style="width: 100%;">
+  </div>
+  <div style="flex: 1; margin-left: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayatvyhr&layout=compact&theme=tokyonight" alt="Top Langs" style="width: 100%;">
+  </div>
+</div>
+
+
+
 
 
 
