@@ -1,7 +1,18 @@
 # Hi there 👋
 
-### I'm Hayat Roubakhi, a student at the School of Applied Sciences (ENSA) in Tetouan.
-### Skills :
+## I'm Hayat Roubakhi, a student at the School of Applied Sciences (ENSA) in Tetouan.
+
+<div style="display: flex;">
+  <div style="flex: 1; margin-right: 80px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=hayatvyhr&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats" style="width: 60%;">
+  </div>
+  <div style="flex: 1; margin-left: 80px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayatvyhr&layout=compact&theme=tokyonight" alt="Top Langs" style="width: 60%;">
+  </div>
+</div>
+
+
+## Skills :
 ![Static Badge](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react)
 ![Static Badge](https://img.shields.io/badge/html-%23d9534f?style=for-the-badge&logo=html5&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/java-blue?style=for-the-badge&logo=javascript)
@@ -16,16 +27,6 @@
 ![Static Badge](https://img.shields.io/badge/SEO-%2399aab5?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/java-blue?style=for-the-badge)
 
-
-
-<div style="display: flex;">
-  <div style="flex: 1; margin-right: 80px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=hayatvyhr&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats" style="width: 60%;">
-  </div>
-  <div style="flex: 1; margin-left: 80px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayatvyhr&layout=compact&theme=tokyonight" alt="Top Langs" style="width: 60%;">
-  </div>
-</div>
 
 
 
