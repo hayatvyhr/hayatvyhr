@@ -18,9 +18,16 @@
 
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayatvyhr&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayatvyhr&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+  <div style="flex: 1; height: 350px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=hayatvyhr&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats" style="width: 100%; height: 100%;">
+  </div>
+  <div style="flex: 1; height: 350px;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayatvyhr&layout=compact&theme=tokyonight" alt="Top Langs" style="width: 100%; height: 100%;">
+    </a>
+  </div>
+</div>
 
 ### 📫 How to reach me:
 
