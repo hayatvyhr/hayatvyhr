@@ -2,8 +2,7 @@
 
 ## I'm Hayat Roubakhi, a student at the School of Applied Sciences (ENSA) in Tetouan.
 #### :zap: Currently working on django project for cars locations and laravel project
-
-
+#### :zap: Currently working on ALX AiCE - AI Career Essentials
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=hayatvhyr.profile)
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=hayatvyhr&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="display:inline-block; margin-right: 10px;" />
