@@ -16,16 +16,14 @@
 ![Static Badge](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react)
 ![Static Badge](https://img.shields.io/badge/html-%23d9534f?style=for-the-badge&logo=html5&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/java-blue?style=for-the-badge&logo=javascript)
-
 ![Static Badge](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)
 ![Static Badge](https://img.shields.io/badge/python-%2399aab5?style=for-the-badge&logo=python)
 ![Static Badge](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=black)
 ![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-<br/>
 ![Static Badge](https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/ORACLE%20%20DBA%2011G%20_%20PLSQL-%23F80000?style=for-the-badge&logo=oracle&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/wordpress-%2321759B?style=for-the-badge&logo=wordpress&logoColor=black)
-![Static Badge](https://img.shields.io/badge/css-%231572B6?style=for-the-badge&logo=css3&logoColor=black)   <br/>
+![Static Badge](https://img.shields.io/badge/css-%231572B6?style=for-the-badge&logo=css3&logoColor=black) 
 ![Static Badge](https://img.shields.io/badge/SEO-%2399aab5?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/java-blue?style=for-the-badge)
 
